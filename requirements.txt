@@ -1,6 +1,2 @@
-numpy
 pillow
-matplotlib
-scikit-learn
-streamlit
 tensorflow
