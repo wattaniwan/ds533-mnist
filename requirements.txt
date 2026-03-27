@@ -1,2 +1,6 @@
-pillow
-tensorflow
+streamlit
+Pillow
+# ระบุเวอร์ชันที่เสถียรและไม่ขัดแย้งกับ protobuf ทั่วไป
+tensorflow==2.16.1
+# ตัวช่วยจัดการ Exception ที่คุณใช้อยู่
+rich>=10.14.0
